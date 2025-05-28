@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/KonaBaker/KonaBaker/blob/main/thaicz1-thaicz.gif)
 
 <!--
 **KonaBaker/KonaBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
